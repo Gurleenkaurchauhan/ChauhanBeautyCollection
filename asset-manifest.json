@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChauhanBeautyCollection/static/css/main.f855e6bc.css",
+    "main.js": "/ChauhanBeautyCollection/static/js/main.6ce92317.js",
+    "static/js/453.a43495d3.chunk.js": "/ChauhanBeautyCollection/static/js/453.a43495d3.chunk.js",
+    "index.html": "/ChauhanBeautyCollection/index.html",
+    "main.f855e6bc.css.map": "/ChauhanBeautyCollection/static/css/main.f855e6bc.css.map",
+    "main.6ce92317.js.map": "/ChauhanBeautyCollection/static/js/main.6ce92317.js.map",
+    "453.a43495d3.chunk.js.map": "/ChauhanBeautyCollection/static/js/453.a43495d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6ce92317.js"
+  ]
+}
